@@ -4,8 +4,8 @@ import json
 import re
 import base64
 
-proxies = {"http": "http://127.0.0.1:8577", "https": "http://127.0.0.1:8577"}
-use_proxy = True
+proxies = {"http": "Your proxy here", "https": "Your proxy here"}
+use_proxy = False
 # Use proxy may help to accerate downloading images.
 
 
